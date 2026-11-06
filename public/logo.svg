@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 60" fill="none">
+  <!-- Logo Icon -->
+  <g transform="translate(4, 4) scale(0.52)">
+    <path d="M50 8C30.1177 8 14 24.1177 14 44C14 65.5 44 90 48.5 93.5C49.4 94.2 50.6 94.2 51.5 93.5C56 90 86 65.5 86 44C86 24.1177 69.8823 8 50 8Z" fill="#0B8F5A" />
+    <path d="M33 46L46 59L71 33" stroke="white" stroke-width="9" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M34 25C29 30 28 36 29 41" stroke="white" stroke-width="4.5" stroke-linecap="round" />
+    <path d="M33 23L39 29" stroke="white" stroke-width="4.5" stroke-linecap="round" />
+    <circle cx="28" cy="66" r="4.5" fill="#FF8A00" stroke="white" stroke-width="1.5" />
+  </g>
+  <!-- Wordmark "Verifix" -->
+  <text x="66" y="38" font-family="-apple-system, BlinkMacSystemFont, 'Plus Jakarta Sans', sans-serif" font-size="28" font-weight="800" fill="#0F172A" letter-spacing="-0.5">
+    Veri<tspan fill="#0B8F5A">fix</tspan>
+  </text>
+</svg>
