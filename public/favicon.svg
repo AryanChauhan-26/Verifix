@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <!-- Location Pin Base in Deep Emerald Green (#0B8F5A) -->
+  <path d="M50 8C30.1177 8 14 24.1177 14 44C14 65.5 44 90 48.5 93.5C49.4 94.2 50.6 94.2 51.5 93.5C56 90 86 65.5 86 44C86 24.1177 69.8823 8 50 8Z" fill="#0B8F5A" />
+  
+  <!-- White Verified Checkmark -->
+  <path d="M33 46L46 59L71 33" stroke="white" stroke-width="9" stroke-linecap="round" stroke-linejoin="round" />
+
+  <!-- Subtle Wrench Accent -->
+  <path d="M34 25C29 30 28 36 29 41" stroke="white" stroke-width="4.5" stroke-linecap="round" />
+  <path d="M33 23L39 29" stroke="white" stroke-width="4.5" stroke-linecap="round" />
+
+  <!-- Warm Orange Accent Dot (#FF8A00) -->
+  <circle cx="28" cy="66" r="4.5" fill="#FF8A00" stroke="white" stroke-width="1.5" />
+</svg>
